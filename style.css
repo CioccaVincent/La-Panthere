@@ -11,10 +11,23 @@ body {
 /* MODIFICATION */
 b{
     font-size: 1.5em;
-    text-align: center;
 }
-.text-center{
-    font-size: 1.2em;
+.text-center {
+    font-size: 1.3em;
+}
+
+h4 {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.row h4{
+    margin-right: 330px;
+    margin-left: 330px;
+}
+.col-sm-4 p ,.col-sm-4 ul {
+    font-size: 0.8em;
+    color: black;
 }
 
 /* MODIFICATION */
@@ -146,7 +159,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -163,7 +176,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: white;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -690,7 +703,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.2;
 }
 
 .tight-width-whitespace {
@@ -749,7 +762,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -788,7 +801,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
@@ -835,7 +848,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
