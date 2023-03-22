@@ -13,7 +13,7 @@ b{
     font-size: 1.5em;
 }
 .text-center {
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 h4 {
@@ -26,7 +26,8 @@ h4 {
     margin-left: 330px;
 }
 .col-sm-4 p ,.col-sm-4 ul {
-    font-size: 0.8em;
+    font-size: 1.2em;
+    text-align: justify;
     color: black;
 }
 
