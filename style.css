@@ -1070,6 +1070,14 @@ h4 {
         display: flex;
         justify-content: space-around;
     }
+
+    b {
+        font-size: 1.2em;
+        display: block;
+        width: 85%;
+        padding-left: 18%;
+        text-align: center;
+    }
 }
 
 @media (max-width: 767px) {
